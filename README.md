@@ -1,51 +1,49 @@
-# Android-Advance
-#android进阶之路精简版
-
 ##目录
 
-<a href="#part1" target="_self">1. Android触摸事件传递机制</a><br>
-<a href="#part2" target="_self">2. Android View的绘制流程</a><br>
-<a href="#part3" target="_self">3. Android动画机制</a><br>
-<a href="#part4" target="_self">4. Support Annotation Library使用详解</a><br>
-<a href="#part5" target="_self">5. Percent Support Library使用详解</a><br>
-<a href="#part6" target="_self">6. Design Support Library使用详解</a><br>
-<a href="#part7" target="_self">7. Android Studio中的NDK开发</a><br>
-<a href="#part8" target="_self">8. Gradle必知必会</a><br>
-<a href="#part9" target="_self">9.Builder模式详解</a><br>
-<a href="#part10" target="_self">10. 注解在Android中的应用</a><br>
-<a href="#part11" target="_self">11. ANR产生的原因及其定位分析</a><br>
-<a href="#part12" target="_self">12. Android异步处理技术</a><br>
-<a href="#part13" target="_self">13. Android数据序列化方案研究</a><br>
-<a href="#part14" target="_self">14.Android WebView Java和Javascript交互详解</a><br>
-<a href="#part15" target="_self">15.MVP模式及其在Android中的实践</a><br>
-<a href="#part16" target="_self">16.MVVM模式及其在Android DataBinding实战</a><br>
-<a href="#part17" target="_self">17. 观察者模式的拓展:事件总线</a><br>
-<a href="#part18" target="_self">18. 64K方法数限制原理与解决方案</a><br>
-<a href="#part19" target="_self">19.Android插件框架机制研究与实践</a><br>
-<a href="#part20" target="_self">20.推送机制实现原理详解</a><br>
-<a href="#part21" target="_self">21. APP瘦身经验总结</a><br>
-<a href="#part22" target="_self">22. Android Crash日志收集原理与实践</a><br>
-<a href="#part23" target="_self">23. 函数式编程思想及其在Android中的应用</a><br>
-<a href="#part24" target="_self">24. 依赖注入及其在Android中的应用</a><br>
-<a href="#part25" target="_self">25.Android世界的Swift:Kotlin在Android中的应用</a><br>
-<a href="#part26" target="_self">26.Android在线热修复方案研究</a><br>
-<a href="#part27" target="_self">27.面向切面编程及其在Android中的应用</a><br>
-<a href="#part28" target="_self">28.改造Android构建系统</a><br>
-<a href="#part29" target="_self">29. 代码优化</a><br>
-<a href="#part30" target="_self">30.图片优化</a><br>
-<a href="#part31" target="_self">31.布局优化</a><br>
-<a href="#part32" target="_self">32.Android混淆机制</a><br>
-<a href="#part33" target="_self">33.Android反编译机制详解</a><br>
-<a href="#part34" target="_self">34.Android加固技术研究</a><br>
-<a href="#part35" target="_self">35.Android安全编码</a><br>
-<a href="#part36" target="_self">36.Android调试工具Facebook Stetho</a><br>
-<a href="#part37" target="_self">37.内存泄漏检查函数库LeakCanary</a><br>
-<a href="#part38" target="_self">38.基于Facebook Redex实现Android APK的压缩和优化</a><br>
-<a href="#part39" target="_self">39.Android Studio你所需要知道的功能</a><br> 
+[1. Android触摸事件传递机制](https://www.jianshu.com/p/deb6983ac961#part1)<br>
+[2. Android View的绘制流程](https://www.jianshu.com/p/deb6983ac961#part2)<br>
+[3. Android动画机制](https://www.jianshu.com/p/deb6983ac961#part3)<br>
+[4. Support Annotation Library使用详解](https://www.jianshu.com/p/deb6983ac961#part4)<br>
+[5. Percent Support Library使用详解](https://www.jianshu.com/p/deb6983ac961#part5)<br>
+[6. Design Support Library使用详解](https://www.jianshu.com/p/deb6983ac961#part6)<br>
+[7. Android Studio中的NDK开发](https://www.jianshu.com/p/deb6983ac961#part7)<br>
+[8. Gradle必知必会](https://www.jianshu.com/p/deb6983ac961#part8)<br>
+[9.Builder模式详解](https://www.jianshu.com/p/deb6983ac961#part9)<br>
+[10. 注解在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part10)<br>
+[11. ANR产生的原因及其定位分析](https://www.jianshu.com/p/deb6983ac961#part11)<br>
+[12. Android异步处理技术](https://www.jianshu.com/p/deb6983ac961#part12)<br>
+[13. Android数据序列化方案研究](https://www.jianshu.com/p/deb6983ac961#part13)<br>
+[14.Android WebView Java和Javascript交互详解](https://www.jianshu.com/p/deb6983ac961#part14)<br>
+[15.MVP模式及其在Android中的实践](https://www.jianshu.com/p/deb6983ac961#part15)<br>
+[16.MVVM模式及其在Android DataBinding实战](https://www.jianshu.com/p/deb6983ac961#part16)<br>
+[17. 观察者模式的拓展:事件总线](https://www.jianshu.com/p/deb6983ac961#part17)<br>
+[18. 64K方法数限制原理与解决方案](https://www.jianshu.com/p/deb6983ac961#part18)<br>
+[19.Android插件框架机制研究与实践](https://www.jianshu.com/p/deb6983ac961#part19)<br>
+[20.推送机制实现原理详解](https://www.jianshu.com/p/deb6983ac961#part20)<br>
+[21. APP瘦身经验总结](https://www.jianshu.com/p/deb6983ac961#part21)<br>
+[22. Android Crash日志收集原理与实践](https://www.jianshu.com/p/deb6983ac961#part22)<br>
+[23. 函数式编程思想及其在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part23)<br>
+[24. 依赖注入及其在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part24)<br>
+[25.Android世界的Swift:Kotlin在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part25)<br>
+[26.Android在线热修复方案研究](https://www.jianshu.com/p/deb6983ac961#part26)<br>
+[27.面向切面编程及其在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part27)<br>
+[28.改造Android构建系统](https://www.jianshu.com/p/deb6983ac961#part28)<br>
+[29. 代码优化](https://www.jianshu.com/p/deb6983ac961#part29)<br>
+[30.图片优化](https://www.jianshu.com/p/deb6983ac961#part30)<br>
+[31.布局优化](https://www.jianshu.com/p/deb6983ac961#part31)<br>
+[32.Android混淆机制](https://www.jianshu.com/p/deb6983ac961#part32)<br>
+[33.Android反编译机制详解](https://www.jianshu.com/p/deb6983ac961#part33)<br>
+[34.Android加固技术研究](https://www.jianshu.com/p/deb6983ac961#part34)<br>
+[35.Android安全编码](https://www.jianshu.com/p/deb6983ac961#part35)<br>
+[36.Android调试工具Facebook Stetho](https://www.jianshu.com/p/deb6983ac961#part36)<br>
+[37.内存泄漏检查函数库LeakCanary](https://www.jianshu.com/p/deb6983ac961#part37)<br>
+[38.基于Facebook Redex实现Android APK的压缩和优化](https://www.jianshu.com/p/deb6983ac961#part38)<br>
+[39.Android Studio你所需要知道的功能](https://www.jianshu.com/p/deb6983ac961#part39)
 
+---
 
-====
 <span id = "part1"/>
+
 ##1. Android触摸事件传递机制
 
 ###1.1 	触摸事件的类型
@@ -94,7 +92,7 @@
 		super.onInterceptTouchEvent,则事件会继续传递给子View。
 		3.在子View中对事件进行消费后，ViewGroup将接收不要任何事件。
 
-====
+---
 <span id = "part2"/>
 ##2. Android View的绘制流程
 
@@ -142,7 +140,7 @@
 			5）绘制View的fading边缘并恢复图层
 			6）绘制View的装饰（例如滚动条）
 
-====
+---
 <span id = "part3"/>			
 ##3. Android动画机制
 
@@ -197,16 +195,17 @@
 		局的过渡动画。
 		两种方式： 1.res/transition目录，2.代码
 		
-====
+---
 <span id = "part4"/>
 ##4. Support Annotation Library使用详解
+
 
 		Android19.1引入的函数包，它包含一系列有用的元注解，用来帮助开发者在编译期间发现可
 		能存在的bug。
 ###4.1 Nullness注解
 		@Nullable作用于函数参数或者返回值，标记参数或者返回值可以为空。
-		@NonNull作用于函数参数或者返回值，标记参数或者返回值不可以为空。<br>		
-	
+		@NonNull作用于函数参数或者返回值，标记参数或者返回值不可以为空。
+
 ###4.2 资源类型注解
 		规定传入的资源的类型，类型不对在编译期就报错。如@LayoutRes:表明需要传入
 		android.R.layout类型的资源文件。
@@ -218,17 +217,14 @@
 	    public static final int THIRD_GEAR = 3;
     	public static final int CUSTOM_GEAR = 4;
     	这样调用方法只能使用这三个值
-	
 ###4.4 线程注解
 		@UiThread: 标记运行在UI线程，一个UI线程是Activity运行的主窗口
 		@MainThread: 标记运行在主线程，一个应用只有一个主线程，主线程也是@UiThread
 		@WorkerThread: 标记运行在后台线程
 		@BinderThread: 标记运行在Binder线程
-		
 ###4.5 RGB颜色值注解
 		@ColorRes是资源类型注解
 		@ColorInt标记参数类型需要传入RGB或者ARGB颜色整型值
-		
 ###4.6 值范围注解
 		函数参数的取值范围，防止传入错误的参数
 		1.	@Size(min=1) 
@@ -237,24 +233,17 @@
 			@Size(multiple=2)
 		2. 	@IntRange：int或者long
 		3.  @FloatRange：float或者double
-		
 ###4.7 权限注解
 		@RequiresPermission
-		
 ###4.8 重写函数注解
 		@CallSuper
-		
 ###4.9 返回值注解
 		@CheckResult
-		
 ###4.10 @VisibleForTesting
 		用于单元测试，使其对测试可见
-		
 ###4.11 @Keep
 		用于混淆过程中不需要混淆的类或者方法
-		
-====
-
+---
 <span id = "part5"/>
 ##5. Percent Support Library使用详解
 
@@ -272,7 +261,7 @@
 		
 [主流屏幕分辨率](http://screensiz.es/)
 
-====
+---
 <span id = "part6"/>
 ##6. Design Support Library使用详解
 
@@ -301,7 +290,7 @@
 	实现底部动作条功能，在布局中添加app:layout_behavior属性，将这个布局作为
 	CoordinatorLayout的子View。
 
-====
+---
 <span id = "part7"/>
 ##7. Android Studio中的NDK开发
 
@@ -342,7 +331,7 @@
 * 将.so文件放在错误的地方
 * 只提供armeabi架构的.so文件而忽略其他ABIs的
 
-====
+---
 <span id = "part8"/>
 ##8. Gradle必知必会
 
@@ -1211,7 +1200,7 @@ a93c79e9f689](https://www.jianshu.com/p/a93c79e9f689)
 	
 ----
 <span id = "part24"/>
-## 24. 依赖注入及其在Android中的应用
+## 24. 依赖注入及其在Android中的应用
 
 
 	作用: 降低代码耦合度
