@@ -1,44 +1,44 @@
 ##目录
 
-[1. Android触摸事件传递机制](https://www.jianshu.com/p/deb6983ac961#part1)<br>
-[2. Android View的绘制流程](https://www.jianshu.com/p/deb6983ac961#part2)<br>
-[3. Android动画机制](https://www.jianshu.com/p/deb6983ac961#part3)<br>
-[4. Support Annotation Library使用详解](https://www.jianshu.com/p/deb6983ac961#part4)<br>
-[5. Percent Support Library使用详解](https://www.jianshu.com/p/deb6983ac961#part5)<br>
-[6. Design Support Library使用详解](https://www.jianshu.com/p/deb6983ac961#part6)<br>
-[7. Android Studio中的NDK开发](https://www.jianshu.com/p/deb6983ac961#part7)<br>
-[8. Gradle必知必会](https://www.jianshu.com/p/deb6983ac961#part8)<br>
-[9.Builder模式详解](https://www.jianshu.com/p/deb6983ac961#part9)<br>
-[10. 注解在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part10)<br>
-[11. ANR产生的原因及其定位分析](https://www.jianshu.com/p/deb6983ac961#part11)<br>
-[12. Android异步处理技术](https://www.jianshu.com/p/deb6983ac961#part12)<br>
-[13. Android数据序列化方案研究](https://www.jianshu.com/p/deb6983ac961#part13)<br>
-[14.Android WebView Java和Javascript交互详解](https://www.jianshu.com/p/deb6983ac961#part14)<br>
-[15.MVP模式及其在Android中的实践](https://www.jianshu.com/p/deb6983ac961#part15)<br>
-[16.MVVM模式及其在Android DataBinding实战](https://www.jianshu.com/p/deb6983ac961#part16)<br>
-[17. 观察者模式的拓展:事件总线](https://www.jianshu.com/p/deb6983ac961#part17)<br>
-[18. 64K方法数限制原理与解决方案](https://www.jianshu.com/p/deb6983ac961#part18)<br>
-[19.Android插件框架机制研究与实践](https://www.jianshu.com/p/deb6983ac961#part19)<br>
-[20.推送机制实现原理详解](https://www.jianshu.com/p/deb6983ac961#part20)<br>
-[21. APP瘦身经验总结](https://www.jianshu.com/p/deb6983ac961#part21)<br>
-[22. Android Crash日志收集原理与实践](https://www.jianshu.com/p/deb6983ac961#part22)<br>
-[23. 函数式编程思想及其在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part23)<br>
-[24. 依赖注入及其在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part24)<br>
-[25.Android世界的Swift:Kotlin在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part25)<br>
-[26.Android在线热修复方案研究](https://www.jianshu.com/p/deb6983ac961#part26)<br>
-[27.面向切面编程及其在Android中的应用](https://www.jianshu.com/p/deb6983ac961#part27)<br>
-[28.改造Android构建系统](https://www.jianshu.com/p/deb6983ac961#part28)<br>
-[29. 代码优化](https://www.jianshu.com/p/deb6983ac961#part29)<br>
-[30.图片优化](https://www.jianshu.com/p/deb6983ac961#part30)<br>
-[31.布局优化](https://www.jianshu.com/p/deb6983ac961#part31)<br>
-[32.Android混淆机制](https://www.jianshu.com/p/deb6983ac961#part32)<br>
-[33.Android反编译机制详解](https://www.jianshu.com/p/deb6983ac961#part33)<br>
-[34.Android加固技术研究](https://www.jianshu.com/p/deb6983ac961#part34)<br>
-[35.Android安全编码](https://www.jianshu.com/p/deb6983ac961#part35)<br>
-[36.Android调试工具Facebook Stetho](https://www.jianshu.com/p/deb6983ac961#part36)<br>
-[37.内存泄漏检查函数库LeakCanary](https://www.jianshu.com/p/deb6983ac961#part37)<br>
-[38.基于Facebook Redex实现Android APK的压缩和优化](https://www.jianshu.com/p/deb6983ac961#part38)<br>
-[39.Android Studio你所需要知道的功能](https://www.jianshu.com/p/deb6983ac961#part39)
+[1. Android触摸事件传递机制](#part1)<br>
+[2. Android View的绘制流程](#part2)<br>
+[3. Android动画机制](#part3)<br>
+[4. Support Annotation Library使用详解](#part4)<br>
+[5. Percent Support Library使用详解](#part5)<br>
+[6. Design Support Library使用详解](#part6)<br>
+[7. Android Studio中的NDK开发](#part7)<br>
+[8. Gradle必知必会](#part8)<br>
+[9.Builder模式详解](#part9)<br>
+[10. 注解在Android中的应用](#part10)<br>
+[11. ANR产生的原因及其定位分析](#part11)<br>
+[12. Android异步处理技术](#part12)<br>
+[13. Android数据序列化方案研究](#part13)<br>
+[14.Android WebView Java和Javascript交互详解](#part14)<br>
+[15.MVP模式及其在Android中的实践](#part15)<br>
+[16.MVVM模式及其在Android DataBinding实战](#part16)<br>
+[17. 观察者模式的拓展:事件总线](#part17)<br>
+[18. 64K方法数限制原理与解决方案](#part18)<br>
+[19.Android插件框架机制研究与实践](#part19)<br>
+[20.推送机制实现原理详解](#part20)<br>
+[21. APP瘦身经验总结](#part21)<br>
+[22. Android Crash日志收集原理与实践](#part22)<br>
+[23. 函数式编程思想及其在Android中的应用](#part23)<br>
+[24. 依赖注入及其在Android中的应用](#part24)<br>
+[25.Android世界的Swift:Kotlin在Android中的应用](#part25)<br>
+[26.Android在线热修复方案研究](#part26)<br>
+[27.面向切面编程及其在Android中的应用](#part27)<br>
+[28.改造Android构建系统](#part28)<br>
+[29. 代码优化](#part29)<br>
+[30.图片优化](#part30)<br>
+[31.布局优化](#part31)<br>
+[32.Android混淆机制](#part32)<br>
+[33.Android反编译机制详解](#part33)<br>
+[34.Android加固技术研究](#part34)<br>
+[35.Android安全编码](#part35)<br>
+[36.Android调试工具Facebook Stetho](#part36)<br>
+[37.内存泄漏检查函数库LeakCanary](#part37)<br>
+[38.基于Facebook Redex实现Android APK的压缩和优化](#part38)<br>
+[39.Android Studio你所需要知道的功能](#part39)
 
 ---
 
