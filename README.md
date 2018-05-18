@@ -1,5 +1,7 @@
 #android进阶之路精简版
 
+###由于之前用macdown写的，简书的目录并没卵用，再研究研究，有知道的童鞋可以帮忙留言下，或者下载用macdown浏览效果好点哈~
+[简书地址](https://www.jianshu.com/u/6fdcd457906a)
 ##目录
 
 [1. Android触摸事件传递机制](#part1)<br>
