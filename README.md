@@ -202,12 +202,13 @@
 		两种方式： 1.res/transition目录，2.代码
 		
 ---
+
 <span id = "part4"/>
 ##4. Support Annotation Library使用详解
 
-
 		Android19.1引入的函数包，它包含一系列有用的元注解，用来帮助开发者在编译期间发现可
 		能存在的bug。
+		
 ###4.1 Nullness注解
 		@Nullable作用于函数参数或者返回值，标记参数或者返回值可以为空。
 		@NonNull作用于函数参数或者返回值，标记参数或者返回值不可以为空。
@@ -215,6 +216,7 @@
 ###4.2 资源类型注解
 		规定传入的资源的类型，类型不对在编译期就报错。如@LayoutRes:表明需要传入
 		android.R.layout类型的资源文件。
+
 ###4.3 类型定义注解
 		用来规定方法可以传入的参数的值的指定值。
 		如鲁班压缩中的压缩模式：
@@ -223,6 +225,7 @@
 	    public static final int THIRD_GEAR = 3;
     	public static final int CUSTOM_GEAR = 4;
     	这样调用方法只能使用这三个值
+
 ###4.4 线程注解
 		@UiThread: 标记运行在UI线程，一个UI线程是Activity运行的主窗口
 		@MainThread: 标记运行在主线程，一个应用只有一个主线程，主线程也是@UiThread
@@ -231,6 +234,7 @@
 ###4.5 RGB颜色值注解
 		@ColorRes是资源类型注解
 		@ColorInt标记参数类型需要传入RGB或者ARGB颜色整型值
+
 ###4.6 值范围注解
 		函数参数的取值范围，防止传入错误的参数
 		1.	@Size(min=1) 
@@ -239,17 +243,23 @@
 			@Size(multiple=2)
 		2. 	@IntRange：int或者long
 		3.  @FloatRange：float或者double
+
 ###4.7 权限注解
 		@RequiresPermission
+
 ###4.8 重写函数注解
 		@CallSuper
+
 ###4.9 返回值注解
 		@CheckResult
+
 ###4.10 @VisibleForTesting
 		用于单元测试，使其对测试可见
+
 ###4.11 @Keep
 		用于混淆过程中不需要混淆的类或者方法
 ---
+
 <span id = "part5"/>
 ##5. Percent Support Library使用详解
 
