@@ -339,9 +339,11 @@
 
 ---
 <span id = "part8"/>
+
 ##8. Gradle必知必会
 
 ###8.1 共享变量的定义
+
 	1.在工程根目录创建一个common_config.gradle的文件
 	project.ext {
 		compileSdkVersion = 23
@@ -353,6 +355,7 @@
 		compileSdkVersion project.ext.compileSdkVersion
 		...
 	}
+	
 ###8.2 通用配置
 	module中的 apply from: "${project.rootDir}/common_config.gradle"替换成以下方式:
 	在工程的build.gradle文件中配置subprojects
@@ -360,6 +363,7 @@
 		apply from: "${project.rootDir}/common_config.gradle"
 		...
 	}
+	
 ###8.3 aar函数库的引用
 	module1中引用了aar文件中的类时，其他module依赖module1时，会提示aar文件找不到错
 	误。
@@ -382,9 +386,11 @@
             signingConfig signingConfigs.release
         }
 	}
+	
 ---- 
 
 <span id = "part9"/>
+
 ## 9.Builder模式详解
 
 ### 9.1 经典的Builder模式
