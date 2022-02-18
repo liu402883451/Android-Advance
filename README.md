@@ -65,12 +65,12 @@
 * 消费(Consume):&nbsp; public boolean onTouchEvent(MotionEvent ev)
 
 		拥有事件传递处理能力的类:
-		1. Activity:&nbsp;dispatchTouchEvent、onTouchEvent
+		1. Activity:&nbsp; dispatchTouchEvent、onTouchEvent
 
-		2. ViewGroup:&nbsp;dispatchTouchEvent、onInterceptTouchEvent、
+		2. ViewGroup:&nbsp; dispatchTouchEvent、onInterceptTouchEvent、
 		onTouchEvent
 
-		3. View:&nbsp;dispatchTouchEvent、onTouchEvent
+		3. View:&nbsp; dispatchTouchEvent、onTouchEvent
 
 ###1.3	View的事件传递机制
 		拥有dispatchTouchEvent、onTouchEvent两个方法，其返回值:
